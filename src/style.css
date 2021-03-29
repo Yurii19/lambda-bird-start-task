@@ -1,0 +1,31 @@
+
+body {
+  font-family:  Geneva, Tahoma, sans-serif;
+}
+h3 {
+    background-color: bisque;
+}
+td, th {
+    width: 100px;
+    padding: 5px;
+}
+th {
+    background-color: rgba(0, 0, 0, 0.2) ;
+    color:rgba(0, 0, 0, 0.5);
+}
+td {
+    background-color: rgba(0, 0, 0, 0.1) ;
+    border-bottom-right-radius: 15px;
+}
+th > span {
+    margin-left: 7px;
+    cursor: pointer;
+    color: blue;
+}
+.search-block {
+    padding: 5px;
+}
+.search-block * {
+    margin-left: 5px;
+    outline: none;
+}
