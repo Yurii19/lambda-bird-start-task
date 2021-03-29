@@ -1,2 +1,2 @@
 # lambda-bird-start-task
-Use index html from deploy
+To view the project, download the folder deploy
